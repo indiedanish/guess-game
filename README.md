@@ -5,7 +5,7 @@
  2. If you guessed the number, you'll get 10 points
  3. If you took hint, 5 points will be deducted 
  4. You can play again and save your score to the history block.
- 5. On finish, all scores will be clear
+ 5. On finish, all scores will be cleared
 
 Start Screen          | Playing Board  | Finish Screen
 :-------------------------:|:-------------------------:|:-------------------------:
