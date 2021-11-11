@@ -6,15 +6,9 @@
  4. You can play again and save your score to the history block.
  5. On finish, all scores will be clear
 
-
-<img height = "600px" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/1.jpeg" />
-
-
-
-<img height = "600px" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/2.jpeg" />
-
-
-<img height = "600px" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/3.jpeg" />
+Start Screen          | Playing Board  | Finish Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+<img height = "600px" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/1.jpeg" /> | <img height = "600px" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/2.jpeg" /> | <img height = "600px" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/3.jpeg" />
 
 
 
