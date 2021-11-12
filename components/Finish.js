@@ -35,6 +35,8 @@ export default function Finish({
 
   return (
     <View>
+       <Text style={styles.heading}>The number was : {randomNumber}</Text>
+       
        <Text style={styles.heading}>Totals Wins : {totalWins}</Text>
         <Text style={styles.heading}>History</Text>
 

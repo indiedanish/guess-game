@@ -36,13 +36,14 @@ export default function App() {
 
     if (randomNumber == currentValue) {
       setScore(score + 10);
-      setPlayagain(false);
+      setRandomNumber(1 + Math.floor(Math.random() * 9));
+      
       setCurrentValue("");
       setInputValue("");
       setTotalWins(totalWins + 1);
     }
 
-    console.log(completeInfo);
+  
   }),
     [attempts];
 
