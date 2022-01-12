@@ -9,6 +9,6 @@
 
 Start Screen          | Playing Board  | Finish Screen
 :-------------------------:|:-------------------------:|:-------------------------:
-<img height = "50%" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-2---guess-a-number-game-indiedanish/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/guess-game/blob/main/3.jpeg" />
+<img height = "50%" src="https://github.com/indiedanish/guess-game/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/guess-game/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/indiedanish/guess-game/blob/main/3.jpeg" />
 
 
